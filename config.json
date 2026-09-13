@@ -1,0 +1,18 @@
+{
+  "username": "imzeynali",
+  "name": "Seyed Mohammad Hossein Taheri",
+  "wordmark": "imzeynali",
+  "role": "Backend & Infrastructure Engineer",
+  "location": "Iran",
+  "status": "Building scalable systems, automation and cloud infrastructure",
+  "website": "https://mhtaheri.ir",
+  "photo": "assets/profile-source.jpg",
+  "skills": [
+    "Spring Boot",
+    "Python",
+    "PostgreSQL",
+    "Linux",
+    "Cloudflare",
+    "React"
+  ]
+}
