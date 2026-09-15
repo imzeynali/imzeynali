@@ -89,7 +89,7 @@ Hello world! I'm **mehdi zeynali**, a 28-year-old **Frontend developer** from Ir
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@imzeynali-4387ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzeynali)
-[![Email](https://img.shields.io/badge/Email-tari.tahery@gmail.com-9b6cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdizej75@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mehdizej75@gmail.com-9b6cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdizej75@gmail.com)
 
 <br>
 
