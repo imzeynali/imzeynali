@@ -22,12 +22,6 @@
 ## 👨‍💻 About Me
 Hello world! I'm **mehdi zeynali**, a 28-year-old **Frontend developer** from Iran. I design and build modern, responsive, and production-ready web applications using React and TypeScript, with a strong focus on clean code, intuitive user interfaces, and scalable frontend architecture.
 
-- 🔭 **Primary Focus:** Enterprise backend systems with **Spring Boot** and **Python**.
-- 🛡️ **Security & Auth:** Production-level **Spring Security**, stateless **JWT**, and **Role-Based Access Control (RBAC)**.
-- 🧪 **Engineering Quality:** Test-Driven Development mindset utilizing **JUnit 5** and **Mockito**.
-- ☁️ **Infrastructure & Ops:** Hands-on Linux administration, VPS deployment, Reverse Proxies (Nginx), and Cloudflare networks.
-- 🤖 **Automation:** Building intelligent workflow bots (Telegram/Bale), RAG architectures, and webhooks with **n8n** and **Python**.
-
 ---
 
 
